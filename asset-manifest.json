@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jammingjijiji/static/css/main.c1c4702f.css",
+    "main.js": "/jammingjijiji/static/js/main.9779a9b0.js",
+    "static/media/background_photo_desktop.jpg": "/jammingjijiji/static/media/background_photo_desktop.fe3a0beddb5034b9c8c5.jpg",
+    "index.html": "/jammingjijiji/index.html",
+    "main.c1c4702f.css.map": "/jammingjijiji/static/css/main.c1c4702f.css.map",
+    "main.9779a9b0.js.map": "/jammingjijiji/static/js/main.9779a9b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c4702f.css",
+    "static/js/main.9779a9b0.js"
+  ]
+}
